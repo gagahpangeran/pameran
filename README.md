@@ -5,9 +5,19 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 | Nama |
 | ---- |
+| [giovanism](#giovanism) |
 | [laymonage](#laymonage) |
 
 ## Daftar proyek
+
+### [giovanism][giovanism]
+
+- [GMD][GMD]\
+  GMD is a dictionary app to query and manages multiple StarDict’s dictionary
+  files. Very straightforward and simple. Built as UWA (Universal Windows App)
+  and adaptive across PCs, tablets, and phones.
+- [tsudo][tsudo]\
+  Tsundere wrapper for sudo command.
 
 ### [laymonage][laymonage]
 
@@ -24,6 +34,10 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
+
+[giovanism]: https://github.com/giovanism
+[GMD]: https://github.com/giovanism/GMD
+[tsudo]: https://github.com/giovanism/tsudo
 
 [laymonage]: https://github.com/laymonage
 [aidenbot]: https://github.com/laymonage/AidenBot

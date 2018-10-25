@@ -8,7 +8,7 @@ Mohon untuk ikuti aturan berikut jika ingin berkontribusi ke **pameran**.
 - Jika ingin menambahkan proyek kolaborasi Anda dengan orang lain,
   pastikan Anda sudah mendapat izin dari pemilik proyek.
 - Pastikan tidak ada [saltik][saltik], baik pengejaan maupun sintaksis Markdown.
-- Pastikan perubahan Anda mengikuti susunan abjad (baik nama pengguna maupun nama proyek).
+- Pastikan perubahan Anda mengikuti susunan abjad atau [leksikografis][leksikografis] (baik nama pengguna maupun nama proyek).
 - Gunakan [*reference-style link*][reference-style] untuk tautan (kecuali *anchor*).
 - Gunakan pesan *commit* yang jelas.
 - Gunakan judul dan deskripsi yang jelas dalam satu *pull request*
@@ -26,3 +26,4 @@ Berikut adalah langkah-langkah untuk berkontribusi.
 
 [saltik]: https://kbbi.kemdikbud.go.id/entri/saltik
 [reference-style]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+[leksikografis]:https://kbbi.kemdikbud.go.id/entri/leksikografis

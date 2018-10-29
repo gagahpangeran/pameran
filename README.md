@@ -41,7 +41,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
 
-[azharaiz]: https://github.com/giovanism
+[azharaiz]: https://github.com/azharaiz
 [tarung2017]: https://github.com/azharaiz/tarung2017.com
 
 [giovanism]: https://github.com/giovanism

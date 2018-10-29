@@ -5,10 +5,16 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 | Nama |
 | ---- |
+| [azharaiz](#azharaiz)   |
 | [giovanism](#giovanism) |
 | [laymonage](#laymonage) |
 
 ## Daftar proyek
+
+### [azharaiz][azharaiz]
+- [Website Tarung][tarung2017]\
+  Website tugas PMB 2017 untuk angkatan Tarung 2017.
+
 
 ### [giovanism][giovanism]
 
@@ -34,6 +40,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
+
+[azharaiz]: https://github.com/giovanism
+[tarung2017]: https://github.com/azharaiz/tarung2017.com
 
 [giovanism]: https://github.com/giovanism
 [GMD]: https://github.com/giovanism/GMD

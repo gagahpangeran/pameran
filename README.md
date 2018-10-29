@@ -12,7 +12,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 ## Daftar proyek
 
 ### [azharaiz][azharaiz]
--[Website Tarung][tarung2017]\
+- [Website Tarung][tarung2017]\
   Website tugas PMB 2017 untuk angkatan Tarung 2017.
 
 

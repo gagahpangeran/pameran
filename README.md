@@ -5,17 +5,21 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 | Nama |
 | ---- |
-| [azharaiz](#azharaiz)   |
-| [giovanism](#giovanism) |
-| [laymonage](#laymonage) |
+| [ahmad-fauzan458](#ahmad-fauzan458) |
+| [azharaiz](#azharaiz)               |
+| [giovanism](#giovanism)             |
+| [laymonage](#laymonage)             |
 
 ## Daftar proyek
+
+### [ahmad-fauzan458][ahmad-fauzan458]
+- [LabDDP0][labddp0]\
+  Contoh soal lab python. 
 
 ### [azharaiz][azharaiz]
 - [Website Tarung][tarung2017]\
   Website tugas PMB 2017 untuk angkatan Tarung 2017.
-
-
+  
 ### [giovanism][giovanism]
 
 - [GMD][GMD]\
@@ -41,6 +45,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
 
+[ahmad-fauzan458]: https://github.com/ahmad-fauzan458
+[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0 
+
 [azharaiz]: https://github.com/azharaiz
 [tarung2017]: https://github.com/azharaiz/tarung2017.com
 
@@ -55,3 +62,5 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
+
+

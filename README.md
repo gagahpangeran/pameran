@@ -1,25 +1,45 @@
 # pameran
+
 Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpacil.
 
 ## Daftar nama
 
-| Nama |
-| ---- |
+| Nama                                |
+| ----------------------------------- |
 | [ahmad-fauzan458](#ahmad-fauzan458) |
 | [azharaiz](#azharaiz)               |
+| [gagahpangeran](#gagahpangeran)     |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
 
 ## Daftar proyek
 
 ### [ahmad-fauzan458][ahmad-fauzan458]
+
 - [LabDDP0][labddp0]\
-  Contoh soal lab python. 
+  Contoh soal lab python.
 
 ### [azharaiz][azharaiz]
+
 - [Website Tarung][tarung2017]\
   Website tugas PMB 2017 untuk angkatan Tarung 2017.
-  
+
+### [gagahpangeran][gagahpangeran]
+
+- [Blog GPR][blog.gagahpangeran.com]\
+  Blog pribadi GPR menggunakan framework GatsbyJS.
+
+- [Checkers SC][checkers-sc]\
+  Proyek akhir Sistem Cerdas berupa game Checkers dengan AI. Diimplementasikan
+  menggunakan ReactJS (JavaScript).
+
+- [GPR Website][gagahpangeran.com]\
+  _Main Website_ GPR menggunakan framework GatsbyJS. (Masih dikembangkan)
+
+- [Uno Bot][uno-bot]\
+  Proyek akhir _Advanced Programming_ berupa game Uno dengan Line Chat.
+  Diimplementasikan menggunakan Spring Boot (Java).
+
 ### [giovanism][giovanism]
 
 - [GMD][GMD]\
@@ -51,6 +71,12 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [azharaiz]: https://github.com/azharaiz
 [tarung2017]: https://github.com/azharaiz/tarung2017.com
 
+[gagahpangeran]: https://github.com/gagahpangeran
+[blog.gagahpangeran.com]: https://github.com/gagahpangeran/blog.gagahpangeran.com
+[checkers-sc]: https://github.com/gagahpangeran/checkers-sc
+[gagahpangeran.com]: https://github.com/gagahpangeran/gagahpangeran.com
+[uno-bot]: https://github.com/gagahpangeran/uno-bot
+
 [giovanism]: https://github.com/giovanism
 [GMD]: https://github.com/giovanism/GMD
 [tsudo]: https://github.com/giovanism/tsudo
@@ -62,5 +88,4 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
-
 
